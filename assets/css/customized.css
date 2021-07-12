@@ -66,5 +66,11 @@ img.project-item {
     width: 100%;
 }
 
+img.first-image {
+    width: 100%;
+    border-radius: 100px;
+    height: 100%;
+}
+
 /* .projects-container>h3{
 } */
